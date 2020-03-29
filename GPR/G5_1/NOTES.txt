@@ -1,0 +1,4 @@
+The GPR profile was collected EW direction.
+The GPS profile was collected WE direction.
+
+Therefore, make sure to flip the GPR profile, before applying topographic correction.

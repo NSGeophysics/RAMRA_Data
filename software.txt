@@ -1,0 +1,4 @@
+ERT scripts require BERT: https://gitlab.com/resistivity-net/bert
+
+GPR scripts require GPRPy: https://nsgeophysics.github.io/GPRPy/
+
